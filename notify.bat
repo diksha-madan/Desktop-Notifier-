@@ -1,0 +1,1 @@
+"C:\Python38-32\python.exe" "C:\Users\HP\notify.py"

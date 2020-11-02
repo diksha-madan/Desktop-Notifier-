@@ -1,0 +1,36 @@
+{
+	"Monday":[
+		
+			{"HCI": "8:30"},
+			{"Business Analytics":"12:00"},
+			{"Mock Test":"13:20"},
+			{"Maths": "15:30"},
+			{"Diksha, please study RMPP :(":"20:18"}
+		],
+			
+	"Tuesday":[
+		
+				{"Business Analytics": "9:30"},
+				{"RMPP": "10:30"},
+				{"Maths": "15:30"}
+			],
+
+	"Wednesday":[
+				{"Business Analytics Lab":"8:30"},
+				{"RMPP Lab": "11:30"},
+				{"Maths" : "18:33"}
+	],
+
+	"Thursday":[
+				{"Business Analytics":"11:30"},
+				{"RMPP":"12:30"}
+	],
+
+	"Friday":[
+				{"HCI Lab":"17:24"},
+				{"Business Analytics":"17:23"},
+				{"RMPP":"17:31"}
+	]
+		
+		
+}
